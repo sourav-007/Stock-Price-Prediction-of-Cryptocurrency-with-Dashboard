@@ -18,8 +18,7 @@ Algorithm Used:
 Follow Me on:
 <li><a href=
 "https://www.linkedin.com/in/sourav-saha-3136ab207">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/iam.sourav.saha">Instagram</a>
+
 <li><a href=
 "https://github.com/sourav-007">GitHub</a>
 
